@@ -1,0 +1,25 @@
+{
+  "name": "what-is-this-type",
+  "version": "0.1.0",
+  "description": "a bunch of functions to make various checks",
+  "keywords": [
+    "is",
+    "check",
+    "checks",
+    "typescript"
+  ],
+  "homepage": "https://github.com/hamzakaya/what-is-this-type#readme",
+  "bugs": {
+    "url": "https://github.com/hamzakaya/what-is-this-type/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hamzakaya/what-is-this-type.git"
+  },
+  "license": "MIT",
+  "author": "Hamza KAYA <hamza@hamzakaya.net> (https://github.com/hamzakaya)",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
